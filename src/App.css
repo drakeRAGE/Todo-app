@@ -83,7 +83,7 @@ hr {
 .add-btn {
     padding: 10px;
     border: none;
-    border-radius: 0 5px 5px 0;
+    border-radius: 5px;
     background-color: #2196f3;
     color: #fff;
     font-size: 1.5em;
@@ -92,4 +92,10 @@ hr {
 
 .add-btn:hover {
     background-color: #0d73c7;
+}
+
+@media only screen and (max-width: 768px) {
+    .input-box-todo {
+        width: 70%;
+    }
 }
