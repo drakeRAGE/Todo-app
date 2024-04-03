@@ -1,4 +1,5 @@
-![image](https://github.com/drakeRAGE/Todo-app/assets/145892326/6c3d97d7-5324-4dcc-a5ad-2a8c2685eca0)
+![image](https://github.com/drakeRAGE/Todo-app/assets/145892326/53fd19a8-6554-4df6-b273-3c1ecfa92448)
+
 
 # Getting Started with Create React App
 
