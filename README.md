@@ -1,3 +1,7 @@
+![image](https://github.com/drakeRAGE/Todo-app/assets/145892326/6c3d97d7-5324-4dcc-a5ad-2a8c2685eca0)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
